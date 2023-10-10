@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.called{
+    display: flex;
+    margin-top: 20px;
+    line-height: 50px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+body{
+    width: 800px;
+    height: 2000px;
+   width: 100%;
+   background-color: antiquewhite;
+   height: 100%;
+   margin: 50px 100px;
+}
+
+.wrap{
+    display: flex;
+    flex-direction: column;
+}
+.mor{
+    display: flex;
+    flex-direction: row;
+}
+.margin{
+    margin-top: 20px;
+}
